@@ -47,8 +47,8 @@ Hasilnya adalah 6, padahal kita memasukkan 7 elemen. Dengan demikian terlihat ba
 <li>Factor adalah variabel kategorik atau categorical variable</li>
 <li>Factor adalah tipe data vector</li>
 <li>Factor adalah variable dengan nilai kontinu</li>
-<li>Factor adalah tipe data yang mirip dengan data.frame</li></ol>
+<li>Factor adalah tipe data yang mirip dengan data.frame</li>
 <details>
   <summary>Answer:</summary>
-  <p> 1 dan 2</p>
-</details>
+  <p> Factor adalah variable dengan nilai terbatas </br>Factor adalah variabel kategorik atau categorical variable</p>
+</details></ol>
