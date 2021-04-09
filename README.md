@@ -54,8 +54,8 @@ Hasilnya adalah 6, padahal kita memasukkan 7 elemen. Dengan demikian terlihat ba
 </details></ol>
 <p align="justify"><b>Membuat Factor di R</b></br>
 Factor dapat dibuat di R dengan function factor, dengan syntax paling sederhana sebagai berikut:</br>factor(vector)</p>
-<details>
-  <summary>Buatlah factor dengan isi nilai teks "Jan", "Feb", dan "Mar"</summary>
+<p>Buatlah factor dengan isi nilai teks "Jan", "Feb", dan "Mar"<details>
+  <summary>factor(c("Jan","Feb","Mar"))</summary>
   <p> > factor(c("Jan","Feb","Mar"))</br>[1] Jan Feb Mar </br>
 Levels: Feb Jan Mar</p>
-</details>
+</details></p>
