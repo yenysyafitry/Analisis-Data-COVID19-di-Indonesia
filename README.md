@@ -1,4 +1,4 @@
-<p align="justify"><b>Data wrangling</b> adalah proses membaca data dari berbagai sumber dan merubah isi dan struktur sehingga dapat digunakan untuk analisa.Data preparation atau data wrangling adalah proses yang memakan waktu dan tenaga paling besar bagi seorang data scientist, yaitu sampai 80 persen. Detilnya, pembacaan sumber data memakan waktu sampai 20 persen, dan mengorganisasikan dan membersihkan data memakan waktu sampai 60 persen.</p>
+<p align="justify"><b>Data wrangling</b> adalah proses membaca data dari berbagai sumber dan merubah isi dan struktur sehingga dapat digunakan untuk analisa. Data preparation atau data wrangling adalah proses yang memakan waktu dan tenaga paling besar bagi seorang data scientist, yaitu sampai 80 persen. Detilnya, pembacaan sumber data memakan waktu sampai 20 persen, dan mengorganisasikan dan membersihkan data memakan waktu sampai 60 persen.</p>
 
 
 <ol>Kenapa data wrangling sangat penting dilakukan?
@@ -17,6 +17,10 @@
 <li>Menjaga keamanan data</li>
 <li>Menganalisa 10 nilai penjualan tertinggi</li></ol>
 
+<ol>Kenapa kita memerlukan representasi Missing Value? 
+  <li>Agar kita bisa membuang data yang tidak relevan</li>
+  <li>Agar data tersebut bisa diisi dengan nilai lain</li>
+  <li>Agar kita dapat membedakan antara data yang hilang dan hasil operasi matematika yang tidak mungkin dilakukan</li></ol>
 
 
 
