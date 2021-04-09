@@ -31,7 +31,6 @@ NA tidak bisa digunakan sebagai variable karena merupakan keyword, dan perhatika
 <p align="justify"><b>NULL dan Vector</b></br>Berikut adalah contoh variabel vector yang mengandung 7 elemen termasuk NA dan NULL.</br>
 <details>
   <summary>isi.vector </br><- c(1, 2, 3, NA, 5, NULL, 7)</br>length(isi.vector)</summary>
-  <table border="0"><tr><td><i>Output :</i></td><td>> > isi.vector <- c(1, 2, 3, NA, 5, NULL, 7)</br>> length(isi.vector)</br>
-[1] 6</td></tr></table>
+  <table border="0"><tr><td><i>Output :</i></td><td>> isi.vector <- c(1, 2, 3, NA, 5, NULL, 7)</br>> length(isi.vector)</br>[1] 6</td></tr></table>
 </details>
 
