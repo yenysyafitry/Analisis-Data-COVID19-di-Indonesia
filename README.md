@@ -35,3 +35,10 @@ NA tidak bisa digunakan sebagai variable karena merupakan keyword, dan perhatika
 </details>
 Hasilnya adalah 6, padahal kita memasukkan 7 elemen. Dengan demikian terlihat bahwa NULL memang mewakili undefined object dan tidak dianggap oleh vector. Dengan demikian tidak menjadi bagian dari vector.</p>
 
+<p align="justify"><b>Factor</b> adalah suatu variable di R yang menyimpan daftar nilai-nilai kategori atau nominal.</p>
+<ol>Berikut adalah beberapa contoh daftar nilai kategori yang bisa disimpan dalam factor:
+<li>Nama bulan: Januari, Februari, Maret.</li>
+<li>Jenis pakaian: Atasan, Jeans, Rok, Kaos.</li>
+<li>Satuan berat: kg, mg, ton, kwintal.</li>
+<li>dan lain-lain.</li></ol>
+
