@@ -5,13 +5,12 @@
   <li>Mengurangi kesempatan bisnis yang hilang (opportunity lost)</li>
   <li>Antar sistem lebih mudah "berbicara" karena dapat diintegrasikan dengan lebih baik</li></ol>
   
-Apa saja aktivitas-aktivitas yang termasuk di dalam data wrangling?
 <ol>Apa saja aktivitas-aktivitas yang termasuk di dalam data wrangling?
   <li>Membersihkan data</li>
   <li>Menambah kolom data</li>
   <li>Menyatukan dua dataset</li>
   <li>Menyatukan dua dataset</li>
-  <li>Memisahkan kolom data</li></ol></br>
+  <li>Memisahkan kolom data</li></ol>
   
   <ol>Mana aktivitas berikut yang tidak termasuk di dalam data wrangling?
 <li>Menjaga keamanan data</li>
