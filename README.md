@@ -12,6 +12,10 @@ Apa saja aktivitas-aktivitas yang termasuk di dalam data wrangling?
   <li>Menyatukan dua dataset</li>
   <li>Menyatukan dua dataset</li>
   <li>Memisahkan kolom data</li></ol></br>
+  <ol>Mana aktivitas berikut yang tidak termasuk di dalam data wrangling?
+<li>Menjaga keamanan data</li>
+<li>Menganalisa 10 nilai penjualan tertinggi</li></ol>
+
 
 
 
