@@ -4,20 +4,5 @@
   <li>Mengurangi kesempatan bisnis yang hilang (opportunity lost)</li>
   <li>Antar sistem lebih mudah "berbicara" karena dapat diintegrasikan dengan lebih baik</li>
 </ol>
-<style>
-h1 {color:red;}
-p {color:blue;}
-<html>
-<head>
-<style>
-  h1 {color:red;}
-  p {color:blue;}
-</style>
-</head>
-<body>
+<p style="font-family:'Lucida Console', monospace">This text is monospace text.</p>
 
-<h1>A heading</h1>
-<p>A paragraph.</p>
-
-</body>
-</html>
