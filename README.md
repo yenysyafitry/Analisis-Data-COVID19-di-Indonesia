@@ -50,5 +50,5 @@ Hasilnya adalah 6, padahal kita memasukkan 7 elemen. Dengan demikian terlihat ba
 <li>Factor adalah tipe data yang mirip dengan data.frame</li>
 <details>
   <summary>Answer:</summary>
-  <p> Factor adalah variable dengan nilai terbatas </br>Factor adalah variabel kategorik atau categorical variable</p>
+  <p> A. Factor adalah variable dengan nilai terbatas </br>B. Factor adalah variabel kategorik atau categorical variable</p>
 </details></ol>
