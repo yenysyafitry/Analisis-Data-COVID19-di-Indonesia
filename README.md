@@ -26,7 +26,7 @@
 <p align="justify"><b>NA (Not Available)</b></br><b>NA</b> adalah representasi utama dari missing value di R, dan merupakan suatu nilai atomik. Artinya posisi NA sama dengan contoh nilai-nilai atomik bilangan seperti 1, 2 atau 100. Juga sama dengan contoh nilai karakter seperti "a", "b",  atau "g". Karena angka dan karakter seperti contoh di atas sering disebut sebagai konstanta, maka NA adalah konstanta untuk missing value. </br></p>
   <ui>Dengan demikian, secara singkat NA adalah:
 <li>Representasi missing value</li><li>Merupakan konstanta atau nilai atomik </li>
-NA tidak bisa digunakan sebagai variable karena merupakan keyword, dan perhatikan penulisan NA dimana kedua karakter adalah huruf besar.<ui>
+NA tidak bisa digunakan sebagai variable karena merupakan keyword, dan perhatikan penulisan NA dimana kedua karakter adalah huruf besar.<ui></br>
 
 <p align="justify"><b>NULL dan Vector</b></br>Berikut adalah contoh variabel vector yang mengandung 7 elemen termasuk NA dan NULL.
 <details>
