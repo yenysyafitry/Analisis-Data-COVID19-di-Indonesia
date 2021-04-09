@@ -35,7 +35,7 @@ NA tidak bisa digunakan sebagai variable karena merupakan keyword, dan perhatika
 </details>
 Hasilnya adalah 6, padahal kita memasukkan 7 elemen. Dengan demikian terlihat bahwa NULL memang mewakili undefined object dan tidak dianggap oleh vector. Dengan demikian tidak menjadi bagian dari vector.</p>
 
-<p align="justify"><b>Factor</b> adalah suatu variable di R yang menyimpan daftar nilai-nilai kategori atau nominal.</p>
+<p align="justify"><b>Factor</b> adalah suatu variable di R yang menyimpan daftar nilai-nilai kategori atau nominal. factor menyimpan nilai-nilai yang terbatas (diskrit). Nama bulan terdiri dari 12 nilai yaitu dari Januari s/d Desember. Jika tidak terbatas atau kontinu, misalkan angka berat seperti 64.5 kg, 11.2 kg, 80.39 kg, dan seterusnya – maka ini tidak bisa digolongkan sebagai factor. Karena sifat data dengan nilai terbatas ini, factor sering disebut juga sebagai categorical variable atau variabel kategorik.</p>
 <ol>Berikut adalah beberapa contoh daftar nilai kategori yang bisa disimpan dalam factor:
 <li>Nama bulan: Januari, Februari, Maret.</li>
 <li>Jenis pakaian: Atasan, Jeans, Rok, Kaos.</li>
