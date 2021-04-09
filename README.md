@@ -5,7 +5,7 @@ Kenapa data wrangling sangat penting dilakukan?
   <li>Mengurangi kesempatan bisnis yang hilang (opportunity lost)</li>
   <li>Antar sistem lebih mudah "berbicara" karena dapat diintegrasikan dengan lebih baik</li>
 </ol>
-Apa saja aktivitas-aktivitas yang termasuk di dalam data wrangling!
+Apa saja aktivitas-aktivitas yang termasuk di dalam data wrangling?
 <ol>
   <li>Membersihkan data</li>
   <li>Menambah kolom data</li>
