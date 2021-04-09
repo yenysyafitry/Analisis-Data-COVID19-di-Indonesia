@@ -1,4 +1,5 @@
-<p align="justify"><b>Data wrangling</b> adalah proses membaca data dari berbagai sumber dan merubah isi dan struktur sehingga dapat digunakan untuk analisa.</p>
+<p align="justify"><b>Data wrangling</b> adalah proses membaca data dari berbagai sumber dan merubah isi dan struktur sehingga dapat digunakan untuk analisa.Data preparation atau data wrangling adalah proses yang memakan waktu dan tenaga paling besar bagi seorang data scientist, yaitu sampai 80 persen. Detilnya, pembacaan sumber data memakan waktu sampai 20 persen, dan mengorganisasikan dan membersihkan data memakan waktu sampai 60 persen.</p>
+
 
 <ol>Kenapa data wrangling sangat penting dilakukan?
   <li>Data dapat dimanfaatkan lebih jauh oleh bisnis</li>
