@@ -4,5 +4,5 @@
   <li>Mengurangi kesempatan bisnis yang hilang (opportunity lost)</li>
   <li>Antar sistem lebih mudah "berbicara" karena dapat diintegrasikan dengan lebih baik</li>
 </ol>
-<p style="font-family:'Lucida Console', monospace">This text is monospace text.</p>
+
 
