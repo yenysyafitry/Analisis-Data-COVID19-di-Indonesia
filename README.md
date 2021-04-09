@@ -42,7 +42,7 @@ Hasilnya adalah 6, padahal kita memasukkan 7 elemen. Dengan demikian terlihat ba
 <li>Satuan berat: kg, mg, ton, kwintal.</li>
 <li>dan lain-lain.</li></ol>
 
-<ol start="A">Mana pernyataan berikut yang benar mengenai factor?
+<ol type="A">Mana pernyataan berikut yang benar mengenai factor?
 <li>Factor adalah variable dengan nilai terbatas</li>
 <li>Factor adalah variabel kategorik atau categorical variable</li>
 <li>Factor adalah tipe data vector</li>
