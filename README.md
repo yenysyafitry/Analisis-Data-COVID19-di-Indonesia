@@ -1,23 +1,23 @@
 <p align="justify"><b>Data wrangling</b> adalah proses membaca data dari berbagai sumber dan merubah isi dan struktur sehingga dapat digunakan untuk analisa. Data preparation atau data wrangling adalah proses yang memakan waktu dan tenaga paling besar bagi seorang data scientist, yaitu sampai 80 persen. Detilnya, pembacaan sumber data memakan waktu sampai 20 persen, dan mengorganisasikan dan membersihkan data memakan waktu sampai 60 persen.</p>
 
 
-<ol>Kenapa data wrangling sangat penting dilakukan?
+<ol align="justify">Kenapa data wrangling sangat penting dilakukan?
   <li>Data dapat dimanfaatkan lebih jauh oleh bisnis</li>
   <li>Mengurangi kesempatan bisnis yang hilang (opportunity lost)</li>
   <li>Antar sistem lebih mudah "berbicara" karena dapat diintegrasikan dengan lebih baik</li></ol>
   
-<ol>Apa saja aktivitas-aktivitas yang termasuk di dalam data wrangling?
+<ol align="justify">Apa saja aktivitas-aktivitas yang termasuk di dalam data wrangling?
   <li>Membersihkan data</li>
   <li>Menambah kolom data</li>
   <li>Menyatukan dua dataset</li>
   <li>Menyatukan dua dataset</li>
   <li>Memisahkan kolom data</li></ol>
   
-  <ol>Mana aktivitas berikut yang tidak termasuk di dalam data wrangling?
+  <ol align="justify">Mana aktivitas berikut yang tidak termasuk di dalam data wrangling?
 <li>Menjaga keamanan data</li>
 <li>Menganalisa 10 nilai penjualan tertinggi</li></ol>
 
-<ol>Kenapa kita memerlukan representasi Missing Value? 
+<ol align="justify">Kenapa kita memerlukan representasi Missing Value? 
   <li>Agar kita bisa membuang data yang tidak relevan</li>
   <li>Agar data tersebut bisa diisi dengan nilai lain</li>
   <li>Agar kita dapat membedakan antara data yang hilang dan hasil operasi matematika yang tidak mungkin dilakukan</li></ol>
@@ -59,3 +59,5 @@ Factor dapat dibuat di R dengan function factor, dengan syntax paling sederhana 
   <p> > factor(c("Jan","Feb","Mar"))</br>[1] Jan Feb Mar </br>
 Levels: Feb Jan Mar</p>
 </details></ol>
+
+<p align="center"><b>E-Sertifikat </b></br><img src="https://github.com/yenysyafitry/Data-Preparation-in-Data-Science-using-R/blob/main/e-sertifikat.jpg"></p>
