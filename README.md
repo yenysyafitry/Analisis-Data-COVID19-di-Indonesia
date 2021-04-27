@@ -59,5 +59,5 @@ Factor dapat dibuat di R dengan function factor, dengan syntax paling sederhana 
   <p> > factor(c("Jan","Feb","Mar"))</br>[1] Jan Feb Mar </br>
 Levels: Feb Jan Mar</p>
 </details></ol>
-
+ 
 <p align="center"><b>E-Sertifikat </b></br><img src="https://github.com/yenysyafitry/Data-Preparation-in-Data-Science-using-R/blob/main/e-sertifikat.jpg"></p>
